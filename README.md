@@ -4,7 +4,7 @@
 
 
 - 🔭 Participando do programa PET-TEC do Instituto Federal do Triângulo Mineiro 
-- 🌱 Estudando Java, BootStrap e Jquery
+- 🌱 Estudando Java, React e Python
 
 <div>
   <a href="https://github.com/pedrolrosa">
