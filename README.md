@@ -3,7 +3,7 @@
 ### Olá! Eu Sou o Pedro L. Rosa
 
 
-- 🔭 Participando do programa PET-TEC do Instituto Federal do Triângulo Mineiro 
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas - 4° Período
 - 🌱 Estudando Spring, Kotlin e Node
 
 <div>
