@@ -5,7 +5,7 @@
 
 <div style="display:flex;">
     <img style="width: 429px; height: 171px;" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrolrosa&theme=graywhite&hide_border=false" />
-    <img style="width: 400px; height: 170px;" src="https://github-readme-stats.vercel.app/api?username=pedrolrosa&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false" />
+    <img style="width: 400px; height: 170px;" src="https://github-readme-stats.vercel.app/api?username=pedrolrosa&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=pedrolrosa&icon=5&color=12)](https://visitcount.itsvg.in)
