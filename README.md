@@ -3,7 +3,7 @@
     <img style="width: 400px; height: 170px;" src="https://github-readme-stats.vercel.app/api?username=pedrolrosa&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
 
-<br><br><br>
+<br>
 
 <div align="center" style="display:inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,7 +16,7 @@
   <img align="center" alt="Pedro-Node" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
-<br><br><br>
+<br>
 
 [![](https://visitcount.itsvg.in/api?id=pedrolrosa&icon=5&color=12)](https://visitcount.itsvg.in)
 
