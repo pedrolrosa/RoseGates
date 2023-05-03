@@ -16,8 +16,4 @@
   <img align="center" alt="Pedro-Node" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
-<br>
-
-[![](https://visitcount.itsvg.in/api?id=pedrolrosa&icon=5&color=12)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
