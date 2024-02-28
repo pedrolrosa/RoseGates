@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **pedroluiz2109@gmail.com**
 
-- ⚡ Fun fact **Life is simple**
+- ⚡ **Life is simple**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
